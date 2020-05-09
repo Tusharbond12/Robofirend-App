@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robofirend-App/static/css/main.3f2c1470.chunk.css",
+    "main.js": "/Robofirend-App/static/js/main.dca0138e.chunk.js",
+    "main.js.map": "/Robofirend-App/static/js/main.dca0138e.chunk.js.map",
+    "runtime-main.js": "/Robofirend-App/static/js/runtime-main.9b2d2ddc.js",
+    "runtime-main.js.map": "/Robofirend-App/static/js/runtime-main.9b2d2ddc.js.map",
+    "static/css/2.036b41f9.chunk.css": "/Robofirend-App/static/css/2.036b41f9.chunk.css",
+    "static/js/2.78723f3d.chunk.js": "/Robofirend-App/static/js/2.78723f3d.chunk.js",
+    "static/js/2.78723f3d.chunk.js.map": "/Robofirend-App/static/js/2.78723f3d.chunk.js.map",
+    "index.html": "/Robofirend-App/index.html",
+    "precache-manifest.8352c00f23b3d46b3977fdf798d09344.js": "/Robofirend-App/precache-manifest.8352c00f23b3d46b3977fdf798d09344.js",
+    "service-worker.js": "/Robofirend-App/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/Robofirend-App/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.3f2c1470.chunk.css.map": "/Robofirend-App/static/css/main.3f2c1470.chunk.css.map",
+    "static/js/2.78723f3d.chunk.js.LICENSE.txt": "/Robofirend-App/static/js/2.78723f3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b2d2ddc.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.78723f3d.chunk.js",
+    "static/css/main.3f2c1470.chunk.css",
+    "static/js/main.dca0138e.chunk.js"
+  ]
+}
